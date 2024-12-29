@@ -10,7 +10,7 @@
 [![X Follow](https://img.shields.io/twitter/follow/ccostan?color=blue&amp;label=talk&amp;logo=twitter&amp;style=for-the-badge)](https://x.com/ccostan)
 [![YouTube Subscribe](https://img.shields.io/youtube/channel/subscribers/UC301G8JJFzY0BZ_0lshpKpQ?label=VIEW&logo=Youtube&logoColor=%23DF5D44&style=for-the-badge)](https://www.youtube.com/vCloudInfo?sub_confirmation=1)
 [![GitHub Follow](https://img.shields.io/github/stars/CCOSTAN/Home-AssistantConfig?label=sTARS&amp;logo=Github&amp;style=for-the-badge)](https://github.com/CCOSTAN) <br>
-[![My HA Version](https://img.shields.io/github/v/tag/ccostan/home-assistantconfig?color=d42a1e&label=My%20HA%20Version&logo=homeassistant&logoColor=white&?cacheSeconds=600)](https://github.com/ccostan/home-assistantconfig/blob/master/config/.HA_VERSION)
+[![HA Version Badge](https://raw.githubusercontent.com/ccostan/home-assistantconfig/master/ha-version-badge.svg)](https://github.com/CCOSTAN/Home-AssistantConfig/blob/master/config/.HA_VERSION)
 
   <h4>
     <a href="https://github.com/CCOSTAN/Home-AssistantConfig/commits/master"><img src="https://img.shields.io/github/last-commit/CCOSTAN/Home-AssistantConfig.svg?style=plasticr"/></a>
@@ -78,8 +78,6 @@ As of 2018, I have migrated everything to a Docker based platform.  You can read
 * [Unifi controller Container to manage](https://github.com/jacobalberty/unifi-docker) [APs](https://amzn.to/2mBSfE9)
 
 ![Screenshot of SmartHome](https://lh3.googleusercontent.com/-vKGF5gdz_VY/WVpP7qjsmjI/AAAAAAADVZ4/sGyiS1PjouUQxrEbWVfot6raxcElv4r-wCHMYCw/s1600/clip_image001%255B4%255D)
-Lots of my gear comes from [BetaBound](https://goo.gl/0vxT8A) for Beta Testing and reviews.
-Be sure to use the referral code 'Reliable jaguar' so we both get priority for Beta Tests!
 
 #### <a name="diagram"></a>Smart Home Diagram - Get your icons (<a href="https://www.vcloudinfo.com/2018/07/the-bear-stone-home-assistant-icon.html">here</a>).
 Here is how all the parts talk to each other.  Keep reading to see code examples and explanations.
